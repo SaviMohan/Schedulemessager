@@ -1,3 +1,4 @@
+//SMS Messenger and Scheduling
 package com.example.thedude.schedulemessager;
 
 import android.support.v7.app.AppCompatActivity;
