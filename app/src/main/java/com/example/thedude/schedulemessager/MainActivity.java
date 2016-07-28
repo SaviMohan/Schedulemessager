@@ -1,4 +1,9 @@
 //SMS Messenger and Scheduling Application
+
+//Start with four input fields (timedelay mins, timedelay hours, number, message) and a button to send.
+//Currently we have both timedelay input fields added to the layout.
+//In the future we can add something to select the contact we want to message
+
 package com.example.thedude.schedulemessager;
 
 import android.support.v7.app.AppCompatActivity;
