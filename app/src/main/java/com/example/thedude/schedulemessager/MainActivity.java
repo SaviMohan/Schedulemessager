@@ -4,7 +4,6 @@
 //Currently we have both timedelay input fields added to the layout.
 //In the future we can add something to select the contact we want to message
 
-//YOLOSWAGTROLL
 package com.example.thedude.schedulemessager;
 
 import android.app.ActionBar;
